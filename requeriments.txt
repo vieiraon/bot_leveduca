@@ -1,0 +1,15 @@
+pandas
+psycopg2
+telegram
+Update
+telegram.ext
+Application
+CommandHandler
+MessageHandler
+filters
+io
+ContextTypes
+dotenv
+load_dotenv
+os
+logging
